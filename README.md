@@ -1,4 +1,4 @@
-<h2 align="center">Hi! My name is srivijaya and iam a student of Giet Engineering College</h2>
+<h2 align="center">Hi! My name is srivijaya</h2>
 
 ###
 
