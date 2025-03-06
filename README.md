@@ -1,4 +1,4 @@
-<h2 align="center">Hi! My name is srivijaya</h2>
+<h2 align="center">Hi! My name is Srivijaya<br> "Aspiring full- stack java developer | Currently and exploring the world of Java, Spring, and Hibernate | looking forward to building scalable and efficient solutions"</h2>
 
 ###
 
@@ -9,16 +9,16 @@
 
 ###
 
-<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiPRKxBOAMXwcU-xN-K7d-II-ZZBiP0nHUrg&s"  />
+<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-7ZE0yPLYziujpaBaoR_pYWp7FeUsn4tktA&s"  />
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
@@ -38,4 +38,4 @@
   <img src="https://profile-counter.glitch.me/srivijayajanjam/count.svg?"  />
 </div>
 
-###
+###v
