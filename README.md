@@ -41,13 +41,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-7ZE0yPLYziujpaBaoR_pYWp7FeUsn4tktA&s"  />
-
-###
